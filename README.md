@@ -1,4 +1,4 @@
-# djsv14-example-bot
+# djs-v14-example-bot
 Written in Discord.js v14 library version with Prefix, Context and Slash command support.
 ## Installation
 
